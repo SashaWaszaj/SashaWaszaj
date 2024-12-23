@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating anything I can imagine.
 - 🌱 I’m currently learning JavaScript and carpentry.
 - 💞️ I’m looking to collaborate on a project that I am passionate about.
-- 📫 How to reach me swaszajf@gmail.com or www.linkedin.com/in/sasha-waszaj-forneron-634015210
+- 📫 How to reach me swaszajf@gmail.com or www.linkedin.com/in/sasha-waszaj-fullstackmern
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love reality shows!
 
